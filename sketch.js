@@ -91,7 +91,6 @@ function draw() {
      
     }
   }
-  boy.debug = true;
   drawSprites();
   textSize(20);
   fill(255);
